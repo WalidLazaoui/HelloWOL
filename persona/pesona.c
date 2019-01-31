@@ -9,3 +9,7 @@ Persona* Persona_Create(Persona* p, char* nombre, int edad) {
 	
 	return p;
 }
+
+Persona* Persona_Create_Inutil() {
+	return NULL;
+}
