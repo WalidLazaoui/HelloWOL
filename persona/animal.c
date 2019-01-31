@@ -2,10 +2,10 @@ struct Animal {
 	int muerde;
 };
 
-typedef struct Animal Animal;
+typedef struct Animal Animalico;
 
-Animal* Animal_Create(Animal* a, int muerde) {
+Animalico* Animal_Create(Animalico* a, int muerde) {
 	a->muerde = muerde;
 	return a;
 }
-
+void**** f(x);
