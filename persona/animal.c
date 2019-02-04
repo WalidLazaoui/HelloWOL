@@ -10,4 +10,4 @@ Animalico* Animal_Create(Animalico* a, int muerde) {
 }
 void**** f(x);
 
-hola pendejos
+/* hola pendejos */
