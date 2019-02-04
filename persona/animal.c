@@ -9,3 +9,5 @@ Animalico* Animal_Create(Animalico* a, int muerde) {
 	return a;
 }
 void**** f(x);
+
+hola pendejos
